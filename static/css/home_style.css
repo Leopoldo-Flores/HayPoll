@@ -11,3 +11,7 @@ body {
     text-align: center;
     padding-top: 20%;
 }
+html{
+    background-image: url('/static/img/space4k.jpg');
+    background-size: cover;
+}
